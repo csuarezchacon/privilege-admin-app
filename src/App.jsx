@@ -2,7 +2,7 @@ function App() {
 
   return (
     <>
-      <div>Hola mundo, probando express también</div>
+      <div>Hola mundo, sin express</div>
     </>
   )
 }
